@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Data artifacts
+*.log
+*.DS_Store
+.env
+*.parquet
+*.pkl
+*.pt
+
+# VS Code
+.vscode/
+
+# Raw data
+prep/arxiv-metadata-oai-snapshot.json
